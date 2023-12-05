@@ -1,5 +1,3 @@
-# Created a fork in the Splunk organization
-
 # Splunk App for Hyperledger Fabric
 
 The Splunk App for Hyperledger Fabric contains a set of dashboards and analytics to give you full visibility into the system metrics, application data and ledger so that you can maintain security, stability and performance for your Hyperledger Fabric deployment.  
